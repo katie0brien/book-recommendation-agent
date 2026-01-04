@@ -1,0 +1,604 @@
+{
+  "books": [
+    {
+      "title": "The Time Machine",
+      "author": "H. G. Wells",
+      "first_publish_year": 1895,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "first_publish_year": 1932,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "De la terre à la lune",
+      "author": "Jules Verne",
+      "first_publish_year": 1865,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "The Hitch Hiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "first_publish_year": 1979,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "first_publish_year": 1965,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "Divergent",
+      "author": "Veronica Roth",
+      "first_publish_year": 2010,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "first_publish_year": 2011,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "Insurgent",
+      "author": "Veronica Roth",
+      "first_publish_year": 2011,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "The End of Eternity",
+      "author": "Isaac Asimov",
+      "first_publish_year": 1955,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "City",
+      "author": "Clifford D. Simak",
+      "first_publish_year": 1952,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "Ringworld",
+      "author": "Larry Niven",
+      "first_publish_year": 1970,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "God Emperor of Dune",
+      "author": "Frank Herbert",
+      "first_publish_year": 1981,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "Speaker for the Dead",
+      "author": "Orson Scott Card",
+      "first_publish_year": 1986,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "Dragonsong",
+      "author": "Anne McCaffrey",
+      "first_publish_year": 1976,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "The City of Ember (The First Book of Ember)",
+      "author": "Jeanne DuPrau",
+      "first_publish_year": 1998,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "Gathering Blue",
+      "author": "Lois Lowry",
+      "first_publish_year": 2000,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "The man who sold the moon",
+      "author": "Robert A. Heinlein",
+      "first_publish_year": 1950,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "Pillars of Creation",
+      "author": "Terry Goodkind",
+      "first_publish_year": 2001,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "3001",
+      "author": "Arthur C. Clarke",
+      "first_publish_year": 1997,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "L'homme à l'oreille cassée",
+      "author": "Edmond About",
+      "first_publish_year": 1862,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "The Fall of Hyperion",
+      "author": "Dan Simmons",
+      "first_publish_year": 1990,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "Virtual light",
+      "author": "William Gibson",
+      "first_publish_year": 1743,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "Rubinrot",
+      "author": "Kerstin Gier",
+      "first_publish_year": 2009,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "Phantom",
+      "author": "Terry Goodkind",
+      "first_publish_year": 2006,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "first_publish_year": 2021,
+      "subject": "science-fiction"
+    },
+    {
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "first_publish_year": 1900,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Adventures of Sherlock Holmes [12 stories]",
+      "author": "Arthur Conan Doyle",
+      "first_publish_year": 1892,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Man Who Was Thursday",
+      "author": "Gilbert Keith Chesterton",
+      "first_publish_year": 1908,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Mysterious Affair at Styles",
+      "author": "Agatha Christie",
+      "first_publish_year": 1920,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Secret Adversary",
+      "author": "Agatha Christie",
+      "first_publish_year": 1922,
+      "subject": "mystery"
+    },
+    {
+      "title": "The mystery of Edwin Drood",
+      "author": "Charles Dickens",
+      "first_publish_year": 1870,
+      "subject": "mystery"
+    },
+    {
+      "title": "His Last Bow [8 stories]",
+      "author": "Arthur Conan Doyle",
+      "first_publish_year": 1917,
+      "subject": "mystery"
+    },
+    {
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "first_publish_year": 1899,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Riddle of the Sands",
+      "author": "Erskine Childers",
+      "first_publish_year": 1903,
+      "subject": "mystery"
+    },
+    {
+      "title": "Greenmantle",
+      "author": "John Buchan",
+      "first_publish_year": 1915,
+      "subject": "mystery"
+    },
+    {
+      "title": "Преступление и наказание",
+      "author": "Фёдор Михайлович Достоевский",
+      "first_publish_year": 1866,
+      "subject": "mystery"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "first_publish_year": 1900,
+      "subject": "mystery"
+    },
+    {
+      "title": "Trent's Last Case",
+      "author": "E. C. Bentley",
+      "first_publish_year": 1900,
+      "subject": "mystery"
+    },
+    {
+      "title": "Prester John",
+      "author": "John Buchan",
+      "first_publish_year": 1900,
+      "subject": "mystery"
+    },
+    {
+      "title": "Whose Body?",
+      "author": "Dorothy L. Sayers",
+      "first_publish_year": 1923,
+      "subject": "mystery"
+    },
+    {
+      "title": "Basil",
+      "author": "Wilkie Collins",
+      "first_publish_year": 1852,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Black Robe",
+      "author": "Wilkie Collins",
+      "first_publish_year": 1881,
+      "subject": "mystery"
+    },
+    {
+      "title": "Murder on the Links",
+      "author": "Agatha Christie",
+      "first_publish_year": 1923,
+      "subject": "mystery"
+    },
+    {
+      "title": "Fifty Candles",
+      "author": "Earl Derr Biggers",
+      "first_publish_year": 1926,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Angel of Terror",
+      "author": "Edgar Wallace",
+      "first_publish_year": 1923,
+      "subject": "mystery"
+    },
+    {
+      "title": "Murder on the Orient Express",
+      "author": "Agatha Christie",
+      "first_publish_year": 1933,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Amateur Cracksman",
+      "author": "E. W. Hornung",
+      "first_publish_year": 1899,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Murder of Roger Ackroyd",
+      "author": "Agatha Christie",
+      "first_publish_year": 1926,
+      "subject": "mystery"
+    },
+    {
+      "title": "Poirot investigates",
+      "author": "Agatha Christie",
+      "first_publish_year": 1924,
+      "subject": "mystery"
+    },
+    {
+      "title": "The After House",
+      "author": "Mary Roberts Rinehart",
+      "first_publish_year": 1914,
+      "subject": "mystery"
+    },
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "first_publish_year": 1865,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Wonderful Wizard of Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1899,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "first_publish_year": 1880,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "first_publish_year": 1726,
+      "subject": "fantasy"
+    },
+    {
+      "title": "A Midsummer Night's Dream",
+      "author": "William Shakespeare",
+      "first_publish_year": 1600,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "first_publish_year": 1515,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Through the Looking-Glass",
+      "author": "Lewis Carroll",
+      "first_publish_year": 1865,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "first_publish_year": 1908,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Five Children and It",
+      "author": "Edith Nesbit",
+      "first_publish_year": 1905,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Lost World",
+      "author": "Arthur Conan Doyle",
+      "first_publish_year": 1900,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Marvelous Land of Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1904,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Ozma of Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1907,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Emerald City of Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1910,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Dorothy and the Wizard in Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1908,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Lost Princess of Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1917,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Story of the Amulet",
+      "author": "Edith Nesbit",
+      "first_publish_year": 1905,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Complete Life and Adventures of Santa Claus",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1902,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Alice's Adventures in Wonderland / Through the Looking Glass",
+      "author": "Lewis Carroll",
+      "first_publish_year": 1889,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Road to Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1909,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell",
+      "first_publish_year": 1949,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Sea Fairies",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1911,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Baum's American Fairy Tales",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1901,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Sky Island",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1912,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Scarecrow of Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1915,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Patchwork Girl of Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1913,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "first_publish_year": 1813,
+      "subject": "history"
+    },
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "first_publish_year": 1865,
+      "subject": "history"
+    },
+    {
+      "title": "Bible",
+      "author": "Bible",
+      "first_publish_year": 1200,
+      "subject": "history"
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "first_publish_year": 1890,
+      "subject": "history"
+    },
+    {
+      "title": "A Christmas Carol",
+      "author": "Charles Dickens",
+      "first_publish_year": 1843,
+      "subject": "history"
+    },
+    {
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "first_publish_year": 1876,
+      "subject": "history"
+    },
+    {
+      "title": "Oliver Twist",
+      "author": "Charles Dickens",
+      "first_publish_year": 1822,
+      "subject": "history"
+    },
+    {
+      "title": "Frankenstein or The Modern Prometheus",
+      "author": "Mary Shelley",
+      "first_publish_year": 1818,
+      "subject": "history"
+    },
+    {
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "first_publish_year": 1800,
+      "subject": "history"
+    },
+    {
+      "title": "The Wonderful Wizard of Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1899,
+      "subject": "history"
+    },
+    {
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "first_publish_year": 1811,
+      "subject": "history"
+    },
+    {
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "first_publish_year": 1880,
+      "subject": "history"
+    },
+    {
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "first_publish_year": 1848,
+      "subject": "history"
+    },
+    {
+      "title": "The Call of the Wild",
+      "author": "Jack London",
+      "first_publish_year": 1903,
+      "subject": "history"
+    },
+    {
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "first_publish_year": 1911,
+      "subject": "history"
+    },
+    {
+      "title": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes Saavedra",
+      "first_publish_year": 1600,
+      "subject": "history"
+    },
+    {
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "first_publish_year": 1856,
+      "subject": "history"
+    },
+    {
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "first_publish_year": 1861,
+      "subject": "history"
+    },
+    {
+      "title": "The Art of War",
+      "author": "孙武",
+      "first_publish_year": 1900,
+      "subject": "history"
+    },
+    {
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "first_publish_year": 1515,
+      "subject": "history"
+    },
+    {
+      "title": "La Divina Commedia",
+      "author": "Dante Alighieri",
+      "first_publish_year": 1472,
+      "subject": "history"
+    },
+    {
+      "title": "Анна Каренина",
+      "author": "Лев Толстой",
+      "first_publish_year": 1876,
+      "subject": "history"
+    },
+    {
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "first_publish_year": 1900,
+      "subject": "history"
+    },
+    {
+      "title": "Anne of Green Gables",
+      "author": "Lucy Maud Montgomery",
+      "first_publish_year": 1908,
+      "subject": "history"
+    },
+    {
+      "title": "Julius Caesar",
+      "author": "William Shakespeare",
+      "first_publish_year": 1656,
+      "subject": "history"
+    }
+  ]
+}
