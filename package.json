@@ -1,0 +1,32 @@
+{
+  "name": "book-recommendation-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@ai-sdk/openai": "^3.0.2",
+    "ai": "^6.0.5",
+    "readline": "^1.3.0",
+    "zod": "^4.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/agent/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katie0brien/book-recommendation-agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katie0brien/book-recommendation-agent/issues"
+  },
+  "homepage": "https://github.com/katie0brien/book-recommendation-agent#readme"
+}
