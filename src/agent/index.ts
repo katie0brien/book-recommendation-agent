@@ -40,7 +40,7 @@ function pickRandomBook(bookList: Book[]): Book {
 }
 
 
-const recommendBookTool = tool({
+export const recommendBookTool = tool({
     description: 'Recommend a book from a user-specified genre and provide a brief description.',
     inputSchema: z.object({
         genre: z
