@@ -34,6 +34,6 @@ This generates a local dataset of 100 books from the genres specified.
 From project root.
 
 ```shell
-npm run start
+npm start
 ```
 
