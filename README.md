@@ -18,6 +18,7 @@ $env:OPENAI_API_KEY="your_api_key_here"
 ```
 
 3. Fetch Books from OpenLibrary
+
 Update `definedSubjects.json` with any four genres of your choosing, or keep default.
 
 ```shell
@@ -29,6 +30,7 @@ py fetchBooks.py
 This generates a local dataset of 100 books from the genres specified.
 
 4. Run the Agent
+
 From project root.
 
 ```shell
